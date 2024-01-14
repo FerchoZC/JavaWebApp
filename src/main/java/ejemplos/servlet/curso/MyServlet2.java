@@ -21,7 +21,7 @@ public class MyServlet2 extends HttpServlet {
 		out.println("<html>");
 		out.println("<head><title>Ejemplo HTML desde Servlet</title></head>");
 		out.println("<body>");
-		out.println("<h1>Bienvenido!!</h1>");
+		out.println("<h1>Bienvenida Martha!!</h1>");
 	}
 
 }
